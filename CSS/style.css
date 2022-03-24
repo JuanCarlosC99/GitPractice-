@@ -1,12 +1,12 @@
 body{
-    color: rgba(182, 47, 35, 0.863);
+    color: rgba(131, 182, 35, 0.952);
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 table{
     border-collapse: collapse;
     margin:auto;
-    border: 10px solid rgb(24, 145, 216);
+    border: 10px solid rgb(96, 181, 230);
 }
 hr{
     display: block;
@@ -15,22 +15,23 @@ hr{
     margin-left: auto;
     margin-right: auto;
     border-style: inset;
-    border-width: 10px;    
+    border-width: 20px;    
 }
 textarea{
     width: 100%;
     height: 150px;
     padding: 12px 20px;
     box-sizing: border-box;
-    border: 8px solid rgb(233, 17, 17);
+    border: 8px solid rgb(223, 103, 103);
     border-radius: 4px;
-    background-color: #9fb2f0;
+    background-color: #505669;
     font-size: 16px;
     resize: none;
     text-align: center;
 }
 h1{
     font-size: 70px;
-    color: aqua;
+    color: rgb(8, 53, 53);
     font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
 }
